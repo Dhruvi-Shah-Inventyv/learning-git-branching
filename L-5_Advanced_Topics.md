@@ -18,10 +18,7 @@ The below is the ahieved result with this command
 Rather than specifying the number of generations to go back (what ~ takes), the modifier on ^ specifies which parent reference to follow from a merge commit. Remember that merge commits have multiple parents, so the path to choose is ambiguous.
 
 ```bash
-git rebase main bugFix
-git rebase bugFix side
-git rebase side another
-git rebase another main
+ git branch bugWork main^^2^
 ```
 
 The below is the ahieved result with this command
