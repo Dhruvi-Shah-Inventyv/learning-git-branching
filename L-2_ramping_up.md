@@ -59,3 +59,7 @@ git revert HEAD
 The below is the ahieved result with this command
 
 ![alt text](https://res.cloudinary.com/dhdyhdvxd/image/upload/v1739948451/2_4_ikhiuh.png)
+
+## Completed Level-2
+
+![alt text](https://res.cloudinary.com/dhdyhdvxd/image/upload/v1739948589/level2_roj1pe.png)

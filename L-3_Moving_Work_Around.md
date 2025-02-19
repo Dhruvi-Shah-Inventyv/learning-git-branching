@@ -25,3 +25,7 @@ git rebase -i c1
 
 The below is the ahieved result with this command
 ![alt text](https://res.cloudinary.com/dhdyhdvxd/image/upload/v1739947651/3_2_result_octmax.png)
+
+## Completed Level-3
+
+![alt text](https://res.cloudinary.com/dhdyhdvxd/image/upload/v1739948589/level3_ipyacz.png)

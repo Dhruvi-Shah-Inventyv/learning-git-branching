@@ -54,3 +54,7 @@ git rebase main
 
 The below is the ahieved result with this command
 ![alt text](https://res.cloudinary.com/dhdyhdvxd/image/upload/v1739947650/1_4_result_jsnkt4.png)
+
+## Completed Level-1
+
+![alt text](https://res.cloudinary.com/dhdyhdvxd/image/upload/v1739948589/level1_nxl7y0.png)
