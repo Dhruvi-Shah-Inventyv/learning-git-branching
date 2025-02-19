@@ -19,6 +19,7 @@ Each level in this project includes detailed instructions and screenshots to hel
 
 The repository is organized into different markdown files, each corresponding to a specific level of learning:
 
+```
 learning-git-branching/
 ├── README.md # Contains all the level instructions and descriptions
 ├── L-1_Introducing_sequence.md # Git commits result screenshot
@@ -26,3 +27,4 @@ learning-git-branching/
 ├── L-3_Moving_work.md # Merging in Git result screenshot
 ├── L-4_A_mixed_bag.md # Git Rebase result screenshot
 └── L-5_Advanced_Topics.md# Completed Level-1 screenshot
+```
