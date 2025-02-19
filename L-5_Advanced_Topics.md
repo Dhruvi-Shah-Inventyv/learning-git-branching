@@ -1,6 +1,6 @@
 ## Level -1: Rebasing over 9000 times
 
-A commit in a git repository records a snapshot of all the (tracked) files in your directory. It's like a giant copy and paste, but even better!
+A commit in a git repository records a snapshot of all the (tracked) files in your directory. It's like a giant copy and paste, but even better.
 
 ```bash
 git rebase main bugFix
