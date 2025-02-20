@@ -15,7 +15,7 @@ git rebase side3
 
 The below is the ahieved result with this command
 
-![alt text](image-1.png)
+![alt text](image_1.png)
 
 ## Level -2
 
@@ -30,7 +30,7 @@ git push
 
 The below is the ahieved result with this command
 
-![alt text](image-2.png)
+![alt text](image_2.png)
 
 ## Level -3
 
@@ -45,7 +45,7 @@ git push
 
 The below is the ahieved result with this command
 
-![alt text](image-3.png)
+![alt text](image-8.png)
 
 ## Level -4
 
@@ -56,7 +56,7 @@ git push origin foo
 
 The below is the ahieved result with this command
 
-![alt text](image-4.png)
+![alt text](image-9.png)
 
 ## Level -5
 
@@ -67,7 +67,7 @@ git push origin main^:foo
 
 The below is the ahieved result with this command
 
-![alt text](image-5.png)
+![alt text](image-10.png)
 
 ## Level -6
 
@@ -80,7 +80,7 @@ git merge main
 
 The below is the ahieved result with this command
 
-![alt text](image-6.png)
+![alt text](image-11.png)
 
 ## Level -7
 
@@ -91,7 +91,7 @@ git push origin :foo
 
 The below is the ahieved result with this command
 
-![alt text](image-7.png)
+![alt text](image-12.png)
 
 ## Level -8
 
@@ -102,4 +102,4 @@ git pull origin c2:side
 
 The below is the ahieved result with this command
 
-![alt text](image-8.png)
+![alt text](image-13.png)
