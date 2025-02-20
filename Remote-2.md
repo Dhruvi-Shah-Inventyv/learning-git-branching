@@ -11,11 +11,12 @@ git checkout side3
 git rebase side2
 git checkout main
 git rebase side3
+git push
 ```
 
 The below is the ahieved result with this command
 
-![alt text](image_1.png)
+![alt text](image_2.png)
 
 ## Level -2
 
@@ -30,7 +31,7 @@ git push
 
 The below is the ahieved result with this command
 
-![alt text](image_2.png)
+![alt text](image_3.png)
 
 ## Level -3
 
